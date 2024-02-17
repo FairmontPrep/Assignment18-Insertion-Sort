@@ -24,4 +24,3 @@ public class InsertionSort {
 	}
 
 }
-© 2021 GitHub, Inc.
